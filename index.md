@@ -8,3 +8,7 @@
 ``` javascript
 var myVar = "Do you feel the fear?";
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
